@@ -1,0 +1,17 @@
+{
+    "name": "my-super-app",
+    "id": "my-super-app",
+    "available": true,
+    "short_desc": "Its an awesome app!",
+    "author": "me",
+    "port": 8685,
+    "categories": ["development", "ai"],
+    "description": "This app does x thing and y thing.",
+    "tipi_version": 1,
+    "version": "v1.5.7",
+    "source": "https://github.com/nextcloud/docker",
+    "exposable": true,
+    "supported_architectures": ["arm64", "amd64"],
+    "created_at": 1724134338800,
+    "updated_at": 1724134338800
+  }
