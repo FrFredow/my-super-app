@@ -1,6 +1,6 @@
 version: '3'
 services:
   test:
-    image: frfedow/test_hw
+    image: frfredow/test_hw
     ports:
       - "8080:80"
